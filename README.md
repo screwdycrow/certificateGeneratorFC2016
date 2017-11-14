@@ -1,6 +1,6 @@
 # Certificate Generator for FC2016
 
-This is the custom php code used to generate the certificates for the 9nh Fosscomm that took place on University of Piraeus,
+This is the custom php code used to generate the certificates for the 9nth Fosscomm that took place on University of Piraeus,
 and hosted by Software Libre Society. 
 
 ## The Basic Idea
